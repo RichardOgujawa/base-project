@@ -1,7 +1,7 @@
-# Bauhaus-Style Portfolio
+# Title
 
-This is an an interactive animation I made using [this presentation](https://stock.adobe.com/templates/bauhaus-style-presentation/473613467?clickref=1101lwoZiygM&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=weandthecolor) as the inspiration.
+Short Description with [link to original inspiration]().
 
-![Bauhaus-Styled Presentation Design](https://as1.ftcdn.net/jpg/04/73/61/34/1024W_F_473613467_0zuTT1gXzno9k1Z1TbjFhQQA9GmaPPuL_NW1.jpg)
+![]() <!--Image to show what the original inspo looks like.-->
 
-You can also find the live version of my code [here](https://ogujawa-bauhaus-portfolio.netlify.app/).
+You can also find the live version of my code [here]().

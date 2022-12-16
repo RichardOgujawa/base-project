@@ -1,0 +1,127 @@
+/*IMPORTS
+------------------------------------------------*/
+/*--RESET--*/
+@import url("reset.css");
+
+
+/*SETUP
+------------------------------------------------*/
+/*--VARIABLES--*/
+:root {
+    /*Colour*/
+    --clr-neutral-100: ; 
+    --clr-neutral-400: ; 
+    --clr-neutral-900: ; 
+
+    --clr-secondary-100: ;
+    --clr-secondary-400: ;
+    --clr-secondary-900: ;
+
+    --clr-primary-100: ;
+    --clr-primary-400: ;
+    --clr-primary-900: ;
+
+    /*Fonts*/
+        /*font size*/
+        font-size: 16px;
+
+        --fs-300: ; 
+        --fs-400: 1rem; 
+        --fs-600: ;
+        --fs-900: ; 
+
+        /*font family*/
+        /* --ff-accent:'Big Shoulders Display', cursive; */
+        --ff-base: alfarn-2, sans-serif;
+
+        /*font weight*/
+        --fw-regular: 400; 
+        --fw-bold: 700;
+
+    /*Transitions*/
+    --transition-fast: 0.3s ease; 
+    --transition-slow: 0.45s ease;
+}
+
+/*UTILITY CLASSES
+------------------------------------------------*/
+/*--LAYOUT--*/
+.flex {
+    display: flex; 
+    gap: var(--flex-gap);
+}
+
+.flex-wrap {
+    display: flex; 
+    gap: var(--flex-wrap-gap); 
+    flex-wrap: wrap; 
+}
+
+.grid {
+    display: grid; 
+    row-gap: var(--grid-row-gap);
+    column-gap: var(--grid-column-gap);
+}
+
+/*--BUTTON--*/
+.btn {
+    /* padding: 0.5rem 1.5rem;  */
+    /* border: ; */
+    /* border-radius: ;  */
+    
+    /* background-color: ; */
+
+    /* transition: var(--transition-fast); */
+}
+
+/* .btn.teal {
+    color: hsl(var(--clr-neutral-100));
+    background-color: hsl(var(--clr-teal-400));
+} */
+
+/* .btn.off-white {
+    color: hsl(var(--clr-teal-400));
+    background-color: hsl(var(--clr-neutral-100));
+} */
+
+/* .btn.teal:is(:hover, :focus){
+    border: 3px solid hsl(var(--clr-teal-400)); 
+
+    color: hsl(var(--clr-teal-400));
+    background-color: transparent;
+    
+    cursor: pointer;
+} */
+
+/* .btn.off-white:is(:hover, :focus){
+    border: 3px solid hsl(var(--clr-neutral-900)); 
+
+    color: hsl(var(--clr-teal-400));
+    background-color: hsl(var(--clr-orange-400));
+    
+    cursor: pointer;
+} */
+
+/* GLOBAL STYLINGS
+------------------------------------------------*/
+
+
+
+/* CUSTOM STYLINGS 
+------------------------------------------------*/
+body {
+
+}
+
+main {
+
+}
+
+
+/* MEDIA QUERIES
+------------------------------------------------*/
+
+@media screen {
+    /* SWITCHES STYLINGS 
+    ------------------------------------------------*/
+}
